@@ -1,4 +1,4 @@
 print("hello git")
 print("hello pycharm")
 print("HELLO GIT")
-print("Hello PYCHARM")
+print("Hello PyCharm")
